@@ -1,0 +1,138 @@
+=====Chyper RolePlay Kuralları=====
+KOS = Genellikle Baseler İçin Kullanılır . Açılımı Kill On Side , Yani Çizgiyi Geçen Ölür , Bakan Ölür vb. 
+
+AOS = Bu Çizgiyi Geçen Arrestlenir . Çoğu RP Serverınde Bulunmaz . Açılımı Arrest On Side'dır . 
+
+Build = Genellikle Yapım Aşamasındaki Baseler İçin Kullanılır . Bu Yazılı Yerlere Bitene Kadar Girmeniz , Engellemeniz VEYA Rahatsız Etmeniz YASAKTIR . 
+
+/name = İsim Ve Soy İsim Bunu Yapmak Zorundasınızdır . Role Daha Uygun İsimler SERİOUS Serverlar İçin Geçerlidir . 
+
+Advert = Mug , Kidnap vb. Yapılırken Bu Kullanılır . OOC Kullanılamaz . 
+
+OOC = Karakter Dışı İçin Kullanılır . Mesela Kanka Gel , Kanka Gidelim Gel vb. Gibi . Açılımı İse OUT OF CHARACTER'dir. 
+
+PowerGaming
+İnsanların Gerçek Hayatta Yapamayacaklarını Rol Yaparken Yapmaktır. 
+
+MetaGame
+İnsanların Canını , ismini Ve Rolunu Söylemektir. 
+
+RevengeRP
+Önceden Seni Öldüreni , İntikam Tadıyla Öldürmektir . Kısacası Seni Öldüreni Unutmamak Onu Öldürmektir. Açılımı Revenge RolePlay'dır. 
+
+FearRP
+Biri Size Silah vb. Tutarken Oradan Kaçmanız , Onun Dediklerini Yapmamanız Veya Silah vb. Çıkarmanızdır. 
+
+FailRP
+Rolunu Yanlış Şekilde Yapmaktır. 
+
+MadRP
+Delice , Saykoca Ve Çılgınca Rol Yapmak Anlamlarına Gelir. 
+
+RDM
+Boş Yere Sebebi Olmadan İnsanları Öldürmeye Verilen KURAL İsmidir. Açılımı Random Deathmatch'tır. 
+
+MASS RDM
+RDM'nin 10 Katını Yapmaktır. Hayvan Gibi RDM Demek Kısacası.
+
+RDA
+Boş Yere Herkesi Hapise Atmaktır. Açılımı Random Arrest'tir. 
+
+CDM
+Boş Yere Adamları Arabayla Öldürmektir . Açılımı Car Deathmatch'tır 
+
+FDA
+Fading Dooru Açıp Açıp Kapatmaya , Kötü Kullanmaya Denir . Açılımı Fading Door Abuse'dir. 
+
+Self Supply
+Bu Kural ise Silah Satıcısıyken Kendine Silah Çıkarma VB. İçin Söylenir. 
+
+Job Abuse
+Jobunu Kötüye Kullanmaktır. Polisken Silahını Atıp Mafya Olup Onu Almak Buna Örnek Sayılır.
+
+Mix
+Rolunu Karıştırmaktır , Farklı Rol Yapmaktır. 
+
+Nlr
+Ölünce , Öncekini Hayatını Unutup Yeni Bir Hayata Başlamaktır. Açılımı New Life Rules'tir. 
+
+C-Base
+Eğilmeli Base Demektir. Yasaktır Çoğu Serverda. Açılımı Crouch Basedir. 
+
+M-Base
+Labirentli Base Demektir. Bunu Yapamazsınız. Açılımı Maze Basedir. 
+
+T-Base
+Tuzaklı Base Demektir. Bunu Yapamazsınız. Açılımı Trap Basedir. 
+
+J-Base
+Zıplamalı Base Demektir. Bunu Yapamazsınız. Açılımı Jump Basedir. 
+
+S-Base
+Havada Olan Base Demektir. Çoğu Server Buna İzin Vermez. Açılımı Sky Basedir. 
+
+PropSurf
+Probu Altına Alıp Bir Yerlere Gitmektir.
+
+PropClimb
+Propları Koyup Bir Yere Tırmanmaktır.
+
+PropPush
+Proplarla İnsanları VEYA Kendini İttirmektir.
+
+PropKill
+Proplarla İnsanları Öldürmektir.
+
+PropBlock
+Proplarla Bir Yerleri Bloklamak , Kapamaktır.
+
+Minge
+Prop Block Gibi Her Yere Prop Koymak Ve Lag Yapmaktır. 
+
+=====ChyperRP Admin Komutları=====
+
+!bring (isim) kişiyi yanınıza çeker.
+!goto (isim) kişinin yanına gidersiniz.
+!warn (isim) kişiye uyarı atarsınız.
+!return (isim) kişiyi eski yerine götürürsünüz.
+!jail (isim) (saniye) kişiye jail atarsınız.
+!ban (isim) (süre) (sebep) kişiye ban atarsınız.
+!noclip Uçma komutudur.
+!hp (isim) (mikatar) kişiye can verirsiniz.
+!ignite (isim) (süre) kişiyi yakarsınız.
+!freeze (kişi) (süre) kişiyi dondurursunuz.
+!armor (isim) (sayı) kişiye armor (zırh) verirsiniz.
+!blind (isim) (süre) kişiyi kör edersiniz.
+!cloak (isim) (süre) kişiyi görünmez yaparsınız.
+!hp (isim) (sayı) kişiye can verirsiniz.
+!slap (isim) (sayı) kişiyi tokatlar.
+!ssay (isim) kişiyi kimin tokatladığı görülmez.
+!ignite (isim) (sayı) kişiyi yakarsınız.
+!ragdoll (isim) kişiyi cansız hale getirirsiniz.
+NOT : Jail ban vb. durumların başına ''un'' eklerseniz bu cezalı kişiyi serbest bırakırsınız
+
+====DİKKAT ÇOK ÖNEMLİ====
+İsim Yerine "*" Yani Yıldız İşareti Koyarsanız Bütün Oyuncuları Kapsar.
+İsim Yerine "^" Bu İşareti Koyarsanız Kendinizi Kapsar.
+İsim Yerine "@" Bu İşareti Koyarsanız Baktığınız Kişiyi Kapsar.
+İsim Yerine "$" Bu İşareti Koyarsanız STEAM-ID Girmelisiniz.
+İsim Yerine "#" Bu İşareti Koyarsanız Yetki Sınıfı Girmelisiniz O Yetkiyi Kapsar.
+İsim Yerine "%" Bu İşareti Koyarsanız Yetki Sınıfı Girmelisiniz O Yetki Ve Üstünü Kapsar.
+
+===CHAT KOMUTLARI====
+1. Asay : Asay Komutu Çevrimiçi Olan Yetkililere Mesaj Gönderir (Chat Komutu Olarak @ Kullanılır; Konsol Komutu ulx asay' dir.) 
+
+2. Csay : Csay Komutu Oyuncularının Ekranının Ortasına Mesaj Gönderir (Chat Komutu @@@, Konsol Komutu ulx csay' dir.)
+
+3. Gag : Gag Komutu Oyuncunun Mikrofonunu Devre Dışı Eder. (Chat Komutu !gag, Konsol Komutu ulx gag' dir.)
+
+4. Gimp : Gimp Komutu Oyuncunun Chatte Düzgün Konuşmasını Yasaklar. (Chat Komutu !gimp, Konsol Komutu ulx gimp' dir.)
+
+5. Mute : Mute Komutu Oyuncunun Chatte Susturulmasını Sağlar. (Chat Komutu !mute, Konsol Komutu ulx mute' dur.)
+
+6. Psay : Psay Komutu Oyuncular Arası Mesajlaşmayı Sağlar. (Chat Komutu !p, Konsol Komutu ulx psay 'dir.)
+
+7. TheTime : TheTime Komutu Anın Saatini Gösterir. Ufak Bir Not Sunucunuzu Almanya'dan Aldınız O Zaman Almanya Saatini 
+Görüceksiniz (Chat Komutu !thetime, Konsol Komutu Bulunmamaktadır.)
+
+8. Tsay : Tsay Komutu Oyunculara Chat Kısmından Mesaj Gönderir. (Chat Komutu @@, Konsol Komutu ulx tsay' dir.) 
